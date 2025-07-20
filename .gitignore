@@ -1,0 +1,30 @@
+# Ignore target/ directories
+target/
+
+# Ignore build artifacts
+**/*.rs.bk
+
+# Ignore Cargo.lock for libraries (optional)
+# Cargo.lock
+
+# Ignore by IDE/editor
+**/*.swp
+**/*.swo
+**/*.tmp
+**/*~
+*.log
+
+# VSCode files
+.vscode/
+
+# By JetBrains IDEs (CLion, IntelliJ, etc.)
+.idea/
+
+# Mac OS junk
+.DS_Store
+
+# Windows junk
+Thumbs.db
+
+# Node stuff if you have JS tools in the repo
+node_modules/

@@ -9,4 +9,4 @@ Some more simple exercises to learn rust string manipulations and borrowing
 ## Rust-3
 Some exercises to learn structs and enums
 
-Testing gi login
+Testing git login
